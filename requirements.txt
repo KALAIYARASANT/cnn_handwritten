@@ -1,0 +1,9 @@
+
+pandas
+numpy
+matplotlib
+tensorflow
+keras
+streamlit
+openCV
+streamlit_drawable_canvas
